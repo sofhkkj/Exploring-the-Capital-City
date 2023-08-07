@@ -1,0 +1,87 @@
+*{
+    margin: 0%;
+}
+nav{
+    display: flex;
+    width: 85%;
+    align-items: center;
+    justify-content: space-around;
+}
+.search-bar{
+    display: flex;
+    align-items: center;
+    width: 300px;
+    background-color: aliceblue;
+    padding: 5px;
+    border-radius: 5px;
+}
+.search-bar{
+    margin-right: 150px;
+}
+.search-bar input{
+    height: auto;
+    outline: 0px;
+    border: 0px;
+}
+.search-bar button{
+    height: 20px;
+    width: 25px;
+    border: 0px;
+    background-color: transparent;
+    cursor: pointer;
+}
+.search-bar button i{
+    font-size: 18px;
+    color: #888;
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+ul li a{
+    margin-right: 80px;
+    justify-content: center;
+}
+a{
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family: comic sans ms, comic sans;
+}
+header{
+    background-color: #2c4a84;
+    padding-left: 100px;
+    justify-content: center;
+}
+body{
+    background-color: #647fae;
+}
+section{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-family: comic sans ms, comic sans;
+    color: aliceblue;
+    font-size: 40px;
+}
+h4{
+    font-size: 20px;
+    color: aliceblue;
+    font-family: comic sans ms, comic sans;
+}
+h3{
+    color: aliceblue;
+    font-size: 30px;
+    margin-left: 25px;
+    font-family: comic sans ms, comic sans;
+    
+}
+img{
+    margin-left: 40px;
+    border-radius: 10px;
+}
+li a{
+    font-size: 25px;
+    margin-left: 25px;
+}
